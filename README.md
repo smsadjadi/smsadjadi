@@ -4,7 +4,7 @@
 ## Research Interests  
 - Clinical Neuroscience, Neuroimaging, Brain Stimulation, Brain Disorders and Cancer, Epilepsy  
 - Brain Source Localization, Brain Connectivity, Multimodal Brain Mapping, Cortical Folding Patterns  
-- Machine Learning, Deep Learning, Explainable AI, Low-Shot Learning, ML/DL Hardware Acceleration  
+- Machine Learning, Deep Learning, Reinforcement Learning, Explainable AI, Low-Shot Learning  
 ## Course Highlights
 - Digital Signal Processing, Advanced Digital Signal Processing, Biological Signal Processing  
 - Digital Image Processing, Medical Imaging Systems, Functional Brain Imaging Systems  
