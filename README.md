@@ -1,16 +1,21 @@
 ## Work Account
 
-<p align="left">
-  <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; color: inherit;">
-    <img src="https://github.com/smsadjadi-veca.png" width="80" height="80"
-         style="border-radius: 50%; border: 2px solid #888; vertical-align: middle; margin-right: 10px;"
-         alt="Second GitHub Profile">
-    <span style="display: inline-block; vertical-align: middle; line-height: 1.2;">
-      <strong>smsadjadi-veca</strong><br>
-      Seyyed Mostafa Sadjadi
-    </span>
-  </a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://github.com/smsadjadi-veca">
+        <img src="https://github.com/smsadjadi-veca.png" width="80" height="80" style="border-radius: 50%; border: 2px solid #888;" alt="Second GitHub Profile"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      <span style="font-weight: bold; color: inherit; text-decoration: none;">
+        <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; color: inherit;">
+          smsadjadi-veca<br>Seyyed Mostafa Sadjadi
+        </a>
+      </span>
+    </td>
+  </tr>
+</table>
 
 
 ## Institutions  
