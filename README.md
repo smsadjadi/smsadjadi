@@ -8,10 +8,11 @@
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
-      <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; color: inherit;">
-        <strong>smsadjadi-veca</strong><br>
-        Seyyed Mostafa Sadjadi
-      </a>
+      <span style="font-weight: bold; color: inherit; text-decoration: none;">
+        <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; color: inherit;">
+          smsadjadi-veca<br>Seyyed Mostafa Sadjadi
+        </a>
+      </span>
     </td>
   </tr>
 </table>
