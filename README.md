@@ -1,18 +1,17 @@
 ## Work Account
 
 <p align="left">
-  <a href="https://github.com/smsadjadi-veca">
-    <img src="https://github.com/smsadjadi-veca.png" width="80" height="80" 
-         style="border-radius: 50%; border: 2px solid #888; vertical-align: middle; margin-right: 10px;" 
+  <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; color: inherit;">
+    <img src="https://github.com/smsadjadi-veca.png" width="80" height="80"
+         style="border-radius: 50%; border: 2px solid #888; vertical-align: middle; margin-right: 10px;"
          alt="Second GitHub Profile">
-  </a>
-  <span style="display: inline-block; vertical-align: middle; line-height: 1.2;">
-    <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; color: inherit;">
+    <span style="display: inline-block; vertical-align: middle; line-height: 1.2;">
       <strong>smsadjadi-veca</strong><br>
       Seyyed Mostafa Sadjadi
-    </a>
-  </span>
+    </span>
+  </a>
 </p>
+
 
 ## Institutions  
 - School of Electrical and Computer Engineering, College of Engineering, University of Tehran.  
