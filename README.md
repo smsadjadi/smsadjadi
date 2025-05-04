@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://github.com/smsadjadi-veca">
-        <img src="https://github.com/smsadjadi-veca.png"/>
+        <img src="https://github.com/smsadjadi-veca.png" width="40" height="40"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
