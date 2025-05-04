@@ -1,7 +1,7 @@
 ## Work Account
 
 <a href="https://github.com/smsadjadi-veca" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <img src="https://github.com/user-attachments/assets/3b2773b9-a4d5-4bab-806d-70420dde704e" alt="Second GitHub Profile" width="80" height="80" style="border-radius: 50%; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/3b2773b9-a4d5-4bab-806d-70420dde704e" alt="Second GitHub Profile" width="80" height="80" style="border-radius: 50%; border: 3px solid #ccc; margin-right: 10px;">
   <div style="color: inherit;">
     <strong>smsadjadi-veca</strong><br>
     Seyyed Mostafa Sadjadi
