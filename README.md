@@ -2,7 +2,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="vertical-align: middle;>
+    <td style="vertical-align: middle; padding-up: 10px;>
       <a href="https://github.com/smsadjadi-veca">
         <img src="https://github.com/smsadjadi-veca.png" width="80" height="80" style="border-radius: 50%; border: 2px solid #888;" alt="Second GitHub Profile"/>
       </a>
