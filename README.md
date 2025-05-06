@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://github.com/smsadjadi-veca">
-        <img class="circular--square" src="https://github.com/smsadjadi-veca.png" />
+        <img class="circular--square" src="https://github.com/smsadjadi-veca.png" width="70" height="70" style="border-radius: 50%"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
