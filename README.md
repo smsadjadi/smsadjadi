@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
-    <img src="177878874.png" alt="Profile Picture" width="100" height="100" style="vertical-align: middle">
+    <img src="https://github.com/smsadjadi-veca.png" alt="Profile Picture" width="100" height="100" style="vertical-align: middle">
   </a>
   <span style="display: inline-block; vertical-align: middle; margin-left: 20px;">
     <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; color: inherit;">
