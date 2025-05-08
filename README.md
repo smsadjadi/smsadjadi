@@ -3,11 +3,11 @@
   <tr>
     <td>
       <a href="https://github.com/smsadjadi-veca">
-        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile" width="60" height="60">
+        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile" width="50" height="50">
       </a>
     </td>
     <td>
-      <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
+      <a href="https://github.com/smsadjadi-veca">
         <strong><font size="5">Seyyed Mostafa Sadjadi</font></strong><br>
         <font size="4">smsadjadi-veca</font>
       </a>
