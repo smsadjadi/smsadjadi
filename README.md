@@ -2,12 +2,12 @@
   <tr>
     <td>
       <a href="https://github.com/smsadjadi-veca">
-        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile Picture" width="80" height="80">
+        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile" width="80" height="80">
       </a>
     </td>
-    <td style="vertical-align: middle;">
+    <td>
       <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
-        <strong><font size="10">smsadjadi</font></strong><br>
+        <strong><font size="5">smsadjadi-veca</font></strong><br>
         <font size="4">Seyyed Mostafa Sadjadi</font>
       </a>
     </td>
