@@ -2,7 +2,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <td>
       <a href="https://github.com/smsadjadi-veca">
-        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile" width="60" height="60">
+        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile" width="70" height="70">
       </a>
     </td>
     <td>
