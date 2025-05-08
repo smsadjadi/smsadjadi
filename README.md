@@ -8,8 +8,8 @@
     </td>
     <td>
       <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
-        <strong><font size="5">smsadjadi-veca</font></strong><br>
-        <font size="4">Seyyed Mostafa Sadjadi</font>
+        <strong><font size="5">Seyyed Mostafa Sadjadi</font></strong><br>
+        <font size="4">smsadjadi-veca</font>
       </a>
     </td>
   </tr>
