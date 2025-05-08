@@ -1,6 +1,5 @@
 ## 💻 Work Account  
 <table border="0" cellspacing="0" cellpadding="0">
-  <tr>
     <td>
       <a href="https://github.com/smsadjadi-veca">
         <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile" width="50" height="50">
@@ -12,7 +11,6 @@
         <font size="4">smsadjadi-veca</font>
       </a>
     </td>
-  </tr>
 </table>
 
 ## 🏢 Institutions  
