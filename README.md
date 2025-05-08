@@ -5,7 +5,7 @@
         <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile Picture" width="80" height="80">
       </a>
     </td>
-    <td style="vertical-align: middle; padding-left: 1px;">
+    <td style="vertical-align: middle;">
       <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
         <strong><font size="5">smsadjadi</font></strong><br>
         <font size="4">Seyyed Mostafa Sadjadi</font>
