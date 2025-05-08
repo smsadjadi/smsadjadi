@@ -7,7 +7,7 @@
     </td>
     <td style="vertical-align: middle;">
       <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
-        <strong><font size="5">smsadjadi</font></strong><br>
+        <strong><font size="10">smsadjadi</font></strong><br>
         <font size="4">Seyyed Mostafa Sadjadi</font>
       </a>
     </td>
