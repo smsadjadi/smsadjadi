@@ -3,7 +3,7 @@
   <tr>
     <td>
       <a href="https://github.com/smsadjadi-veca">
-        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile" width="80" height="80">
+        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile" width="60" height="60">
       </a>
     </td>
     <td>
