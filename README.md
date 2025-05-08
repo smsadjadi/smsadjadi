@@ -4,20 +4,6 @@
     <img src="https://github.com/user-attachments/assets/970c8118-47bd-4efd-81fd-9bb7a7a9a097" alt="Profile" width="70" height="70">
 </a>
 
-<table border="0" cellspacing="0" cellpadding="0">
-    <td>
-      <a href="https://github.com/smsadjadi-veca">
-        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile" width="70" height="70">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/smsadjadi-veca">
-        <strong><font size="5">Seyyed Mostafa Sadjadi</font></strong><br>
-        <font size="4">smsadjadi-veca</font>
-      </a>
-    </td>
-</table>
-
 ## 🏢 Institutions  
 - **School of Cognitive Sciences**, Institute for Research in Fundamental Sciences (IPM)  
 - **School of Electrical and Computer Engineering**, College of Engineering, University of Tehran  
