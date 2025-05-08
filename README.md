@@ -1,3 +1,19 @@
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <a href="https://github.com/smsadjadi-veca">
+        <img src="https://github.com/user-attachments/assets/b43743cc-1449-4594-bb33-b372918ca3da" alt="Profile Picture" width="80" height="80">
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
+        <strong><font size="5">smsadjadi</font></strong><br>
+        <font size="4">Seyyed Mostafa Sadjadi</font>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Institutions  
 - School of Electrical and Computer Engineering, College of Engineering, University of Tehran.  
 - School of Cognitive Sciences, Institute for Research in Fundamental Science (IPM).  
