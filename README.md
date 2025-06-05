@@ -1,6 +1,6 @@
 ## 💻 Work Account  
 <a href="https://github.com/smsadjadi-veca">
-    <img src=https://github.com/user-attachments/assets/0c731e2f-2cfc-4e85-86dd-599db170780e alt="Profile" height="70">
+    <img src=https://github.com/user-attachments/assets/0c731e2f-2cfc-4e85-86dd-599db170780e alt="Profile" height="65">
 </a>
 
 ## 🏢 Institutions  
